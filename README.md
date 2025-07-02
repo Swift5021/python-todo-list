@@ -25,3 +25,11 @@ You can download it by clicking the green **Code** button and selecting **Downlo
 - Click the Raw button
 - Right-click the page and choose Save As
 - Save it as `todo_list.py`
+## About This Project
+
+This is my personal project — I’m still learning, so I apologize if some of my instructions aren’t very clear.  
+Feel free to explore, use, and improve the code!
+
+---
+
+Thanks for checking out my work!
